@@ -1,0 +1,47 @@
+body
+{
+background-color:#64faf7;
+font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;}
+
+ .navbar-brand,.navbar-light .navbar-nav .nav-link {
+
+
+   font-size:20px;
+
+   color:white;
+}
+.navbar-light .navbar-brand{
+    color:white;
+}
+.btn-secondary {
+    color: #fff;
+    background-color:#3a9189;
+    border-color:white;
+}
+.footer
+{
+height:50px;
+width:100%;
+position:fixed;
+background-color:#3a9189;
+left:0;
+bottom:0;
+}
+
+.form-control
+{
+        border-color:3px solid #3a9189;
+}
+td
+{
+text-align:center;
+}
+.table
+{
+padding-top:30px;}
+
